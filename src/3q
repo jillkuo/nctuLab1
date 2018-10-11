@@ -21,7 +21,7 @@ Main function
 '''
 def main():
     # Define IP header (Task 3.)
-    ip = IP(src = src_ip, dst = dst_ip)
+    ip = IP()
 
     # Define customized header (Task 3.)
     my_id = '0610025'
