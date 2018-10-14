@@ -1,0 +1,3 @@
+git clone https://github.com/nctucn/lab1-jillkuo.git
+
+python decoder.py 52001605200160
